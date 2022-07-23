@@ -1,0 +1,6 @@
+[
+    {"titulo": "Las listas reducen la ansiedad", "imagen": "./assets/img/card1.JPEG", "descripcion": "Al plasmar nuestros planes y el como vamos a hacerlos, la mente deja de dar vueltas sobre la actividad no hecha para concentrarse en lo planificado."},
+    {"titulo": "Las listas ayudan a organizarte", "imagen": "./assets/img/card2.JPEG", "descripcion": "Son ideales para ordenarte, haciéndolas podes organizar tu tiempo, actividades e ideas para así llegar a hacer lo que te propongas."},
+    {"titulo": "Las listas vencen la procrastinación", "imagen": "./assets/img/card3.JPEG", "descripcion": "Visualizar las tareas completadas genera motivación de hacer más, además de que tener claras las tareas por hacer hace que sea más sencillo hacerlas."},
+    {"titulo": "Las listas ayudan a dormir mejor", "imagen": "./assets/img/card4.JPEG", "descripcion": "Planificar un día la noche anterior hace que de alguna forma visualicemos lo que vamos a hacer y eso aporta tranquilidad para el descanso."}
+]
